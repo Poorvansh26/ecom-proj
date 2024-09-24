@@ -1,0 +1,1 @@
+This is a E-commerce backend project based on the idea of CRUD operations and OOPS in java. To test the working of this backend project you can check-out my ecom-frontend repository to know if all the backend process works as desired. 
